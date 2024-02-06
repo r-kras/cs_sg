@@ -1,0 +1,4 @@
+sports cards website:
+ - tabs for different sports
+ - "About us" ==> rational of why this
+ - 
